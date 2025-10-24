@@ -11,3 +11,7 @@ Fonctionnalités :
 - Explosion dans un rayon de 10m.
 
 ----------------------------------------------------------------------
+
+Toutes modifications sont explicitement interdites.
+
+----------------------------------------------------------------------
